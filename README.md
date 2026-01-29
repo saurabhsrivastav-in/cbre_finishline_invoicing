@@ -102,7 +102,7 @@ Building **Gatekeeper Auth** provided key insights into the intersection of User
 ---
 
 ## 📩 Contact & Collaboration
-**Saurabh Srivastav** *Strategic Automation & Product Development* Email: [saurabh.srivastav@cbre.com](mailto:saurabh.srivastav@cbre.com)
+**Saurabh Srivastav** *Strategic Automation & Product Development* Email: [saurabh.srivastav@algoleap.com](mailto:saurabh.srivastav@algoleap.com)
 
 ---
 *Developed with a focus on Operational Efficiency and Financial Governance.*
